@@ -2,7 +2,7 @@
         Sebastian Myhr
         2375087
         smyhr@chapman.edu
-        CPSC 350-03
+        Data Structures
         Assignment 3
 
 2.  Files
