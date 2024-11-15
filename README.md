@@ -5,8 +5,6 @@
         CPSC 350-03
         Assignment 3
 
-!!! USING ONE LATE DAY !!!
-
 2.  Files
         simulation.h
         simulation.cpp
